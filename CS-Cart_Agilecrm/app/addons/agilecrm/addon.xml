@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>agilecrm</id>
+    <version>1.0</version>
+    <priority>1700</priority>
+    <position>120</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <settings layout="separate" edition_type="ROOT,ULT:VENDOR">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="agile_info">
+                        <type>header</type>
+                    </item>
+                    <item id="agile_account_ask_info">
+                        <type>info</type>
+                        <handler>fn_agilecrm_settings_account_info</handler>
+                    </item>
+                    <item id="agile_domain">
+                        <type>input</type>
+                        <default_value></default_value>
+                    </item>
+                    <item id="agile_email">
+                        <type>input</type>
+                        <default_value></default_value>
+                    </item>
+                    <item id="agile_rest_api_key">
+                        <type>input</type>
+                        <default_value></default_value>
+                    </item>
+                    <item id="validate">
+                        <type>template</type>
+                        <default_value>validate.tpl</default_value>
+                    </item>
+
+
+                    <item id="agile_settings">
+                        <type>header</type>
+                    </item>
+                    <item id="sync_contacts">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="sync_orders">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="web_rules">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="web_stats">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="import_customers">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+</addon>

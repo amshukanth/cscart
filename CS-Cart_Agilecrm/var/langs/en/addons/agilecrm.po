@@ -1,0 +1,75 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::agilecrm"
+msgid "Agile CRM"
+msgstr "Agile CRM"
+
+msgctxt "Addons::description::agilecrm"
+msgid "Agile CRM is an all-in-one, affordable and next-gen Customer Relationship Management (CRM) software with marketing, sales and service automation, built with love for small businesses."
+msgstr "Agile CRM is an all-in-one, affordable and next-gen Customer Relationship Management (CRM) software with marketing, sales and service automation, built with love for small businesses."
+
+msgctxt "SettingsSections::agilecrm::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::agilecrm::agile_info"
+msgid "Agile Information"
+msgstr "Agile Information"
+
+msgctxt "Languages::agilecrm.account_ask"
+msgid "Do not have an Agile Account. <a target="_blank" href="https://www.agilecrm.com/pricing?utm_source=cscart&utm_medium=website&utm_campaign=integration" style="text-decoration:none;padding:5px" class="btn-primary">Create account</a> and fill the details below<br/><br/>"
+msgstr "Do not have an Agile Account. <a target="_blank" href="https://www.agilecrm.com/pricing?utm_source=cscart	&utm_medium=website&utm_campaign=integration" style="text-decoration:none;padding:5px" class="btn-primary">Create account</a> and fill the details below<br/><br/>"
+
+msgctxt "SettingsOptions::agilecrm::agile_domain"
+msgid "Domain"
+msgstr "Domain"
+
+msgctxt "SettingsOptions::agilecrm::agile_email"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "SettingsOptions::agilecrm::agile_rest_api_key"
+msgid "Rest API Key"
+msgstr "Rest API Key"
+
+msgctxt "SettingsOptions::agilecrm::agile_settings"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "SettingsOptions::agilecrm::sync_contacts"
+msgid "Sync Contacts to Agile"
+msgstr "Sync Contacts to Agile"
+
+msgctxt "SettingsOptions::agilecrm::sync_orders"
+msgid "Sync Orders"
+msgstr "Sync Orders"
+
+msgctxt "SettingsOptions::agilecrm::web_rules"
+msgid "Web Rules"
+msgstr "Web Rules"
+
+msgctxt "SettingsOptions::agilecrm::web_stats"
+msgid "Web Stats"
+msgstr "Web Stats"
+
+msgctxt "SettingsOptions::agilecrm::import_customers"
+msgid "Import existing customers as Contacts to Agile"
+msgstr "Import existing customers as Contacts to Agile"
+
+msgctxt "Languages::agile_domain"
+msgid "Agile Domain"
+msgstr "Agile Domain"
+
+msgctxt "Languages::agile_rest_api_key"
+msgid "Rest API Key"
+msgstr "Rest API Key"
+
+msgctxt "Languages::agilecrm_btn_validate"
+msgid "Validate"
+msgstr "Validate"
+
+
